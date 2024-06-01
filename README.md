@@ -30,4 +30,4 @@ Após configurado, o Swagger estará disponível em: **http://localhost:3000/api
 
 ---
 
-<p align="center">Projeto desenvolvido por [Klecianny Melo](https://www.linkedin.com/in/kecbm/) 😁</p>
+<p align="center">Projeto desenvolvido por <b><a href="https://www.linkedin.com/in/kecbm/">Klecianny Melo</a></b> 😁</p>
