@@ -8,7 +8,7 @@ Exemplo da utilização do **Swagger** em uma API **Nest**
      
 ## Tabela instances
 
-![Tabela instances](src/assets/instances.png)
+![Tabela instances](instance/src/assets/instance.png)
 
 ## API
 
